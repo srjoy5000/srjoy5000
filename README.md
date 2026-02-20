@@ -1,14 +1,5 @@
 ## Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=srjoy5000)](https://github.com/srjoy5000/github-profile-trophy)
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srjoy5000&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=srjoy5000&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=srjoy5000&theme=juicyfresh&no-bg=true" /> -->
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=srjoy5000&show_icons=true&locale=en&layout=compact)
 <!--
 **srjoy5000/srjoy5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
