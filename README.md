@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-[![srjoy5000's GitHub stats](https://github-readme-stats.vercel.app/api?username=srjoy5000)](https://github.com/anuraghazra/github-readme-stats)
-![Tech Stack](https://skillicons.dev/icons?i=js,nodejs,threejs,react,python,pytorch,tensorflow,opencv,cs,cpp,blender)
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Sato!&fontSize=70" width="100%" />
   <p align="center">
