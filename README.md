@@ -6,13 +6,6 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srjoy5000&theme=onedark" alt="trophy" /></a>
   </p>
 </div> -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=srjoy5000&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srjoy5000" />
-</a>
-
 
 ---
 
@@ -29,8 +22,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srjoy5000](https://github-readme-stats.vercel.app/api?username=srjoy5000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srjoy5000&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-fork-iota.vercel.app/api?username=srjoy5000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-fork-iota.vercel.app/api/top-langs/?username=srjoy5000&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 ---
