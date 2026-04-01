@@ -1,11 +1,18 @@
 ## Hi there 👋
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Sato!&fontSize=70" width="100%" />
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srjoy5000&theme=onedark" alt="trophy" /></a>
   </p>
-</div>
+</div> -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=srjoy5000&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srjoy5000" />
+</a>
+
 
 ---
 
