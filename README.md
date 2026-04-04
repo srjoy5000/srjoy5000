@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-<!-- <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Sato!&fontSize=70" width="100%" />
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srjoy5000&theme=onedark" alt="trophy" /></a>
-  </p>
-</div> -->
 
 ---
 
@@ -27,18 +21,6 @@
 </div>
 
 ---
-
-### 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/srjoy5000/srjoy5000/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/quote?type=horizontal&theme=tokyonight" alt="Quote" />
-</div>
 
 <!--
 **srjoy5000/srjoy5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
