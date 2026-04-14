@@ -11,7 +11,7 @@
 
 ## 🛠️ Tech Stack & Tools (Web × 3D × AI)
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table>
 <tr>
 <td valign="middle">
 
