@@ -9,7 +9,7 @@
 - 🎯 Goal: Become a Full Stack Developer and Build Impactful Products
 
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools (Web × 3D × AI)
 
 ### 🧑‍💻 Languages
 <p align="left">
