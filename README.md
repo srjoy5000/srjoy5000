@@ -4,9 +4,10 @@
 </p>
 
 ## 👋 About Me
-- 💻 Tech Enthusiast / Ardent Learner
+- 💻 Full Stack Dev / Ardent Learner
 - 🌱 Currently learning: TypeScript, Docker
-- 🎯 Goal: Become a Full Stack Developer and Build Impactful Products
+- 🎯 Goal: To develop high-performance and highly practical tools
+- ⚡ Fun Fact: When I'm not debugging, you'll probably find me powerlifting or learning languages
 
 
 ## 🛠️ Tech Stack & Tools (Web × 3D × AI)
