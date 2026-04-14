@@ -11,12 +11,12 @@
 
 ## 🛠️ Tech Stack & Tools (Web × 3D × AI)
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="middle">
 
 <!-- LEFT: your table -->
-<table　border="0" cellspacing="0" cellpadding="0">
+<table>
 <tr>
 <td width="140"><strong>🧑‍💻 Languages</strong></td>
 <td>
