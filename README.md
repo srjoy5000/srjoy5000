@@ -48,8 +48,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-fork-iota.vercel.app/api?username=srjoy5000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-fork-iota.vercel.app/api/top-langs/?username=srjoy5000&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-fork-iota.vercel.app/api/top-langs/?username=srjoy5000&theme=tokyonight" />
+  <!-- <img height="180em" src="https://github-readme-stats-fork-iota.vercel.app/api/top-langs/?username=srjoy5000&layout=compact&langs_count=7&theme=tokyonight" /> -->
 </div>
 
 ---
