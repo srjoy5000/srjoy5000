@@ -16,7 +16,7 @@
 <td valign="middle">
 
 <!-- LEFT: your table -->
-<table　style="border: none;">
+<table　border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="140"><strong>🧑‍💻 Languages</strong></td>
 <td>
