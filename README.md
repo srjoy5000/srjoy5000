@@ -13,7 +13,7 @@
 
 <table>
 <tr>
-<td valign="top">
+<td valign="center">
 
 <!-- LEFT: your table -->
 <table>
@@ -59,7 +59,7 @@
 
 </td>
 
-<td valign="top" align="center">
+<td valign="center" align="center">
 
 <!-- RIGHT: image -->
 <img height="180em" src="https://github-readme-stats-fork-iota.vercel.app/api?username=srjoy5000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true"/>
