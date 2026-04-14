@@ -8,6 +8,12 @@
 - 🌱 Currently learning: TypeScript, Docker
 - 🎯 Goal: To develop high-performance and highly practical tools
 - ⚡ Fun Fact: When I'm not debugging, you'll probably find me powerlifting or learning languages
+<!--
+## 👋 About Me
+- 💻 Tech Enthusiast / Ardent Learner
+- 🌱 Currently learning: TypeScript, Docker
+- 🎯 Goal: Become a Full Stack Developer and Build Impactful Products
+-->
 
 
 ## 🛠️ Tech Stack & Tools (Web × 3D × AI)
