@@ -1,7 +1,13 @@
 ## Hi there 👋
 
+<h1 align="center">
+  <marquee behavior="scroll" direction="left">
+    <span style="color:#ff7a18;">Welcome to my GitHub</span> 🔥 
+    <span style="color:#32d2aa;">Building cool things</span> 🚀 
+    <span style="color:#4facfe;">Always learning</span> 📚
+  </marquee>
+</h1>
 
----
 
 ### 🛠️ Tech Stack & Tools
 
@@ -11,7 +17,7 @@
   </a>
 </p>
 
----
+
 
 ### 📊 GitHub Stats
 
