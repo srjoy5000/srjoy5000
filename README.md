@@ -53,17 +53,21 @@
   </tr>
   
   </table>
+
+  <img height="180em" src="https://github-readme-stats-fork-iota.vercel.app/api?username=srjoy5000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true" width="49%"　/>
 </div>
 
 ## 📌 Featured Projects (coming soon ...)
 - 🔗 Project A - Short description
 - 🔗 Project B - Short description
 
+<!--
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats-fork-iota.vercel.app/api?username=srjoy5000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true" width="49%"　/>
   <img height="180em" src="https://github-readme-stats-fork-iota.vercel.app/api/top-langs/?username=srjoy5000&layout=compact&langs_count=7&theme=tokyonight" width="49%"　/>
 </div>
+-->
 
 ---
 
