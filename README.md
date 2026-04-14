@@ -47,7 +47,7 @@
 - 🔗 Project B - Short description
 
 ## 📊 GitHub Stats
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats-fork-iota.vercel.app/api/top-langs/?username=srjoy5000&layout=compact&theme=tokyonight" />
   <!-- <img height="180em" src="https://github-readme-stats-fork-iota.vercel.app/api/top-langs/?username=srjoy5000&layout=compact&langs_count=7&theme=tokyonight" /> -->
 </div>
