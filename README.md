@@ -11,8 +11,6 @@
 
 ## 🛠️ Tech Stack & Tools (Web × 3D × AI)
 
-## 🛠️ Tech Stack & Tools (Web × 3D × AI)
-
 <table>
 <tr>
 <td valign="top">
@@ -82,7 +80,6 @@
 </div>
 -->
 
----
 
 <!--
 **srjoy5000/srjoy5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
