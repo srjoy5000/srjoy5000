@@ -5,7 +5,7 @@
 
 ## 👋 About Me
 - 💻 Tech Enthusiast / Ardent Learner
-- 🌱 Currently learning: TypeScript
+- 🌱 Currently learning: TypeScript, Docker
 - 🎯 Goal: Become a Full Stack Developer and Build Impactful Products
 
 
