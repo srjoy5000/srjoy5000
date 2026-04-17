@@ -4,7 +4,7 @@
 </p>
 
 ## 👋 About Me
-- 💻 Full Stack Dev / Ardent Learner
+- 💻 Aspiring Full Stack Dev
 - 🌱 Currently learning: TypeScript, Docker
 - 🎯 Goal: To develop high-performance and highly practical tools
 - ⚡ Fun Fact: When I'm not debugging, you'll probably find me powerlifting or learning languages
