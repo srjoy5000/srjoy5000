@@ -42,6 +42,8 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Processing-006699?style=flat&logo=processingfoundation&white" />
+  <img src="https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5dotjs&white" />
 </td>
 </tr>
 
