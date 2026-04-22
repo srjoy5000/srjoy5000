@@ -79,9 +79,10 @@
 </tr>
 </table>
 
-## 📌 Featured Projects (coming soon ...)
-- 🔗 Project A - Short description
-- 🔗 Project B - Short description
+## 📌 Featured Projects
+- 🔗 [Fractal Life of Tree](https://github.com/srjoy5000/tree-of-life) - Interactive 3D fractal tree built with Three.js
+- 🔗 [AI Face Detector](https://github.com/srjoy5000/ai-face-recognition) - Try Face Detection with ease
+- 🔗 [Übersicht Modern Kanban](https://github.com/srjoy5000/ubersicht-interactive-to-do) - A fully interactive Kanban board widget for Übersicht 
 
 <!--
 ## 📊 GitHub Stats
