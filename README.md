@@ -83,7 +83,7 @@
 ## 📌 Featured Projects
 - 🔗 [Fractal Tree of Life](https://github.com/srjoy5000/tree-of-life) - Interactive 3D fractal tree built with Three.js
 - 🔗 [AI Face Detector](https://github.com/srjoy5000/ai-face-recognition) - Try Face Detection with ease
-- 🔗 [Lexio](https://github.com/srjoy5000/polyglot-contextual-reader-pro/tree/main) - A powerful tool to boost your language learning
+- 🔗 [Lexio](https://github.com/srjoy5000/lexio) - A powerful tool to boost your language learning
 - 🔗 [Übersicht Modern Kanban](https://github.com/srjoy5000/ubersicht-interactive-to-do) - A fully interactive Kanban board widget for Übersicht 
 
 <!--
